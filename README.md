@@ -5,17 +5,20 @@ Charity works with community have a lot of data to manage, this system enables o
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
 This management system is a front end GUI, programmed in C Shapr part of Visual Studio platform.
 
-Background
+Background:
+
 Charity management database system-GGRF.
 Charity works with community have a lot of data to manage, this software enable one to easily 
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
 This management system is a front end GUI, programmed in C Sharp part of Visual Studio platform.
 
 Why is created:
+
 I developed this system to learn and updating my knowledge in CSharp as part of process and make it real system to be implemented 
 for a company but instead of MS SQL, it will be SQLite, as an external database storage.   
 
 Introduction:
+
 Worthy-Care project is an accurate data displaying; for the users to take part to input data and 
 display it.
 There are a number of forms for data input & output.
