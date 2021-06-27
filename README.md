@@ -1,9 +1,9 @@
 # Worthy-care
-Worthy care works with community have a lot of data to manage
-Charity management database system-GGRF.
-Charity works with community have a lot of data to manage, this system enables one to easily 
+Worthy care works for communities, have a lot of data to manage Charity management database system-GGRF.
+Association works with community have a lot of data to manage, this system enables end user to easily 
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
-This management system is a front end GUI, programmed in C Shapr part of Visual Studio platform.
+This is to serve the users in a friendly way to input the data and extract it fairly easy and straight forward and aid to support the association 
+to make a progress and to process the data quickly wit less cost.
 
 Background:
 
