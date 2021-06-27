@@ -65,4 +65,5 @@ from the .NET library to interact with the database that I developed and saved i
 using (SqlConnection connection = new SqlConnection("Server=localhost;Initial Catalog=Gr_management;Integrated Security=True;"))
 When the Dashboard form loads, the connection string runs and creates connection with the database that's in the server.
 This is purely for learning purposes, noone is allowed to copy for commercial or trading purposes. 
-Worthy-Care:v1.0.0
+
+Worthy-Care: v1.0.0
