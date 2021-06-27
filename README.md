@@ -4,22 +4,22 @@ Worthy-care works for communities, have a lot of data to manage Charity manageme
 Association works with community have a lot of data to manage, this system enables end user to easily 
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
 This is to serve the users in a friendly way to input the data and extract it fairly easy and straight forward and aid to support the association 
-to make a progress and to process the data quickly wit less cost.
+to make a progress and to process the data quickly with less cost.
 
 Background:
-
+-----------
 Charity management database system-GGRF.
 Charity works with community have a lot of data to manage, this software enable one to easily 
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
 This management system is a front end GUI, programmed in C Sharp part of Visual Studio platform.
 
 Why is created:
-
+--------------
 I developed this system to learn and updating my knowledge in CSharp as part of process and make it real system to be implemented 
 for a company but instead of MS SQL, it will be SQLite, as an external database storage.   
 
 Introduction:
-
+-------------
 Worthy-Care project is an accurate data displaying; for the users to take part to input data and 
 display it.
 There are a number of forms for data input & output.
