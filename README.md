@@ -1,22 +1,8 @@
-# Worthy-care
-Worthy-care works for communities, have a lot of data to manage using Charity management database system-GGRF.
-
-Association works with communities and serve them,  have a lot of data to manage, this system enables end user to easily 
-input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
-This is to serve the users in a friendly way to input the data and extract it fairly easy and straight forward and aid to support the association 
-to make a progress and to process the data quickly with less cost.
-
-Background:
------------
-Charity management database system-GGRF.
-Charity works with community have a lot of data to manage, this software enable one to easily 
-input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
-This management system is a front end GUI, programmed in C Sharp part of Visual Studio platform.
 
 Why is created:
 --------------
 I developed this system to learn and updating my knowledge in CSharp as part of process and make it real system to be implemented 
-for a company but instead of MS SQL, it will be SQLite, as an external database storage.   
+for the company but instead of MS SQL, it will be SQLite, as an external database storage.   
 
 Introduction:
 -------------
@@ -26,14 +12,10 @@ There are a number of forms for data input & output.
 
 At later stage the SQL database will get replaced by SQLite database that holds the data inserted 
 and retrieved.
-There are progessing perspectives at the moment applying ASP.NET to get end users interact with the system 
-using the system web site, the ASP.NET with CSS including Bootstrap will let end users input 
-the data from web site and also review it from external platform using internet facilities.
-API is another mechanisn that will be introduce to get Paypal Worthy-Care account to receive the payment
-made by the subscribers and sponsors, whether anonymously or with their details typed in.
+There are progressing perspectives at the moment to apply ASP.NET and get end users interacting with the system using its web site, the ASP.NET with CSS including Bootstrap (backend)will let end users to input the data from web site and also review it from external platform using internet facilities.
+API is another mechanism that will be introduce to get Paypal Worthy-Care account to receive the payment made by the subscribers and sponsors, whether anonymously or with their details typed in.
 
-The project uses a database that composes of six tables and are highly normilised and avoid redundancy of data and
-to hold data in the MSSQL database at the back and CSharp code to communicate(i.e. input and output) with it.
+The project uses a database that composes of six tables and are highly normalised and avoid redundancy of data and to hold data in the MSSQL database at the back and CSharp code to communicate(i.e. input and output) with it.
 The tables are: 
 	Event: is the main entity that the system spines around it, it holds data of 
 		the event and the entities that surround it.
