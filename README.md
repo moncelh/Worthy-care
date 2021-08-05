@@ -1,5 +1,5 @@
 # Worthy-care
-Worthy-care works for communities, have a lot of data to manage Charity management database system-GGRF.
+Worthy-care works for communities, have a lot of data to manage using Charity management database system-GGRF.
 
 Association works with communities and serve them,  have a lot of data to manage, this system enables end user to easily 
 input or enter data such as charity Event, Subscribers, Sponsors, Donations into a sql database.
