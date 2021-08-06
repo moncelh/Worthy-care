@@ -1,8 +1,8 @@
 
 Why is created:
 --------------
-I developed this system to learn and updating my knowledge in CSharp as part of process and make it real system to be implemented 
-for the company but instead of MS SQL, it will be SQLite, as an external database storage.   
+I developed this Windows based interactive system in CSharp as part of process and make it real system to be set  
+for the organisation but eventually instead of backend MS SQL Sever database, it will be SQLite, as an external database storage.   
 
 Introduction:
 -------------
