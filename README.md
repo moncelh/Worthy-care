@@ -1,8 +1,7 @@
-
 Why is created:
 --------------
-I developed this Windows based interactive system in CSharp as part of process and make it real system to be set  
-for the organisation but eventually instead of backend MS SQL Sever database, it will be SQLite, as an external database storage.   
+I developed this system to learn and updating my knowledge in CSharp as part of process and make it real system to be implemented 
+for the company but instead of MS SQL, it will be SQLite, as an external database storage.   
 
 Introduction:
 -------------
@@ -26,7 +25,7 @@ The tables are:
 	Donation: its role seems obvious from its name, it holds the data about and the type
 		  donation.
 These are the main entities that the system, is based on and then again there are also the composite
-entities that break the man:many relationship and hold the data from both entities and constraint 
+entities that break the many:many relationship and hold the data from both entities and constraint 
 applied in an attempt to avoid data redundancy.
 
 Composite entities are:
@@ -43,9 +42,10 @@ In the initial class public partial class Dashboard : Form
  I added included files library to be able to use the classes needed: 
 	1) using System.Windows.Forms
 	2) using System.Data.SqlClient 
-from the .NET library to interact with the database that I developed and saved in SQL Sever.
+from the .NET library to interact with the database that I developed and saved in SQL Server.
 using (SqlConnection connection = new SqlConnection("Server=localhost;Initial Catalog=Gr_management;Integrated Security=True;"))
 When the Dashboard form loads, the connection string runs and creates connection with the database that's in the server.
 This is purely for learning purposes, noone is allowed to copy for commercial or trading purposes. 
 
 Worthy-Care: v1.0.0
+
